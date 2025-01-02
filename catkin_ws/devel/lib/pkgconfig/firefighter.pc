@@ -1,0 +1,8 @@
+prefix=/home/arjuna/catkin_ws/devel
+
+Name: firefighter
+Description: Description of firefighter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
